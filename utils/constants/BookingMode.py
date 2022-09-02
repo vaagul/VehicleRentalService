@@ -1,0 +1,1 @@
+LOWEST_PRICE = "lowest"
